@@ -1,0 +1,21 @@
+# Ignore build outputs
+app/build/
+build/
+.gradle/
+
+# Ignore IDE files
+.idea/
+*.iml
+.vscode/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Git
+.git/
+.gitignore
+
+# Ignore documentation
+README.md
+*.md
